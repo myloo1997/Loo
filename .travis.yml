@@ -1,1 +1,2 @@
-sodo: required
+language: ruby
+sudo: required
