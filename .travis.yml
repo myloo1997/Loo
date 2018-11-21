@@ -1,2 +1,5 @@
+os: linux
+dist: trusty
+sodo: required
+group: "stable
 language: ruby
-sudo: required
