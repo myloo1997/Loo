@@ -1,5 +1,5 @@
 os: linux
 dist: trusty
 sodo: required
-group: "stable
+group: stable
 language: ruby
